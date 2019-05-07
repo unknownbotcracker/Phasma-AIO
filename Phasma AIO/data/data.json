@@ -1,0 +1,49 @@
+{
+    "profile":{
+        "testprofile":{
+            "name":"",
+            "surname":"",
+            "street-1":"",
+            "street-2":"",
+            "street-3":"",
+            "zipcode":"",
+            "city":"",
+            "country":"",
+            "countrycode":"",
+            "phone":"",
+            "birthday":"",
+            "email":"",
+            "province":"",
+            "webhook":"",
+            "solebox-email":"",
+            "solebox-password":"",
+            "holypop-email":"",
+            "holypop-password":""
+        },
+        "testprofile2": {
+            "name": "",
+            "surname": "",
+            "street-1": "",
+            "street-2": "",
+            "street-3": "",
+            "zipcode": "",
+            "city": "",
+            "country": "",
+            "countrycode": "",
+            "phone": "",
+            "birthday": "",
+            "email": "",
+            "province": "",
+            "webhook": "",
+            "solebox-email": "",
+            "solebox-password": "",
+            "holypop-email": "",
+            "holypop-password": ""
+        }
+    },
+    "main":{
+        "version":"1.0.3",
+        "delay":"",
+        "key": ""
+    }
+}
